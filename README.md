@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, networking
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me franklyhim@gmail.com, frankly4him@hotmail.com
+- 📫 How to reach me frankly4him@hotmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
